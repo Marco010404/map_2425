@@ -1,0 +1,9 @@
+com/mycompany/negozio/UtentePrime.class
+com/mycompany/negozio/Negozio.class
+com/mycompany/negozio/Articolo.class
+com/mycompany/negozio/HolderQuantity.class
+com/mycompany/negozio/NegozioException.class
+com/mycompany/negozio/TestNegozio.class
+com/mycompany/negozio/Ordine.class
+com/mycompany/negozio/Magazzino.class
+com/mycompany/negozio/Utente.class
